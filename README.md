@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I’m a passionate developer with experience in **
 ---
 
 ## 🌟 About Me
+📍 Location: [Your Location]
 🔭 I’m currently working on **[Developing Responsive Web-Applications integrated with AI]**.
 🌱 I’m learning **[Nextjs,Docker,ML]** to expand my skill set.
 ---
@@ -38,8 +39,8 @@ Welcome to my GitHub profile! I’m a passionate developer with experience in **
 ---
 
 ## 💼 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidharth-cj-26a194294)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=github&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sidharthcj2004@gmail.com)
 
 
