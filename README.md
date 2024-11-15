@@ -32,8 +32,8 @@ Welcome to my GitHub profile! I’m a passionate developer with experience in **
 ---
 
 ## 📈 GitHub Stats
-![Sidharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Sidharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SID-CJ&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SID-CJ&layout=compact&theme=radical)
 
 ---
 
