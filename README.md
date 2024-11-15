@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a passionate developer with experience in **
 ---
 
 ## 🌟 About Me
-📍 Location: [Your Location]
+📍 Location: [India]
 🔭 I’m currently working on **[Developing Responsive Web-Applications integrated with AI]**.
 🌱 I’m learning **[Nextjs,Docker,ML]** to expand my skill set.
 ---
